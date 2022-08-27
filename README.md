@@ -32,7 +32,7 @@ Search
 
 https://dictionaryapi.dev/
 
-News API Setup:
+Dictionary API Setup:
 
 ✓Go to the following link and set up a new project from https://dictionaryapi.dev/
 
